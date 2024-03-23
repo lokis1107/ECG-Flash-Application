@@ -1,6 +1,3 @@
 Flask
 Gunicorn
 numpy
-os
-tensorflow.keras.models
-tensorflow.keras.preprocessing
